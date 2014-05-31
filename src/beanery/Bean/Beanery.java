@@ -15,9 +15,9 @@ public class Beanery {
 	minion.setPhone(0,2100);
 	minion.setMarried(false);
 	
-	System.out.print (minion.getSalary());
+	System.out.println(minion.getSalary());
 	minion.incrementSalary ();
-	System.out.print (minion.getSalary());
-	
+	System.out.println(minion.getSalary());
+	System.out.println(minion);
     }
 }

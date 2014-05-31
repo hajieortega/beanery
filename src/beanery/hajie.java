@@ -2,21 +2,14 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-
 package beanery;
 
 /**
  *
- * @author SonnyGauran
+ * @author manila
  */
-public class Main {
-    
-    
-   
+public class hajie {
     public static void main(String[] args) {
-        // TODO code application logic here
-        System.out.print("hajie");
-        
+        System.out.println("something different");
     }
-
 }

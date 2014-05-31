@@ -101,7 +101,7 @@ public class EmployeeBean implements Serializable {
 		}
 	    }*/
 	} catch (Exception e) {
-	    System.out.print ("error");
+	    System.out.print ("error " + e.getMessage());
 	}
     }
     

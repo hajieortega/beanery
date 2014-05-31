@@ -42,5 +42,9 @@ public class EmployeeBean implements Serializable {
     // Salary
     public void incrementSalary() { setSalary(getSalary()+1000); }
     public void decrementSalary() { setSalary(getSalary()-1000); }
-    
+
+    @Override
+    public String toString() {
+        return super.toString();
+    }
 }
